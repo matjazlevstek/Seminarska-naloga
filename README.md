@@ -1,2 +1,2 @@
-# Seminarska-naloga
-Seminarska nalgoa - Linearna funkcija
+#Projektna naloga 
+Projektna naloga - Linearna funkcija
